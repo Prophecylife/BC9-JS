@@ -1,0 +1,1 @@
+console.log(parseFloat("345.2ff555"));
